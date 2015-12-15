@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mikebradford.github.io
+title: The Bloggings of Mike Bradford
+tagline: Thoughts, starting small
+description: Random thoughts, put into text
+paginate: 5
