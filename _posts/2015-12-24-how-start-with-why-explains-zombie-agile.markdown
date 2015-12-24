@@ -1,6 +1,6 @@
 ---
 published: true
-title: How 'Start with Why' explains 'Zombie Agile'
+title: How 'Start with Why' explains 'Zombie Agile
 layout: post
 ---
 As Agile becomes mainstream and is now being merrily adopted by ‘the Enterprise’ it is being increasingly recognised that many adoptions suffer from ‘Zombie Scrum’ or Cargo Cult syndrome.
@@ -11,7 +11,7 @@ This ties in with what Simon Sinek describes in his famous Ted talk [Start with 
 
 Simon talks about the Golden Circle and the importance of explaining why, moving through how before you get to what. You need to understand 
 
-![](http://zdma.nl/uploads/content_image/image/16/golden-circle2.jpg)
+<img width="1050" height="700" src="http://maccg.com/wp-content/uploads/2014/02/start-with-why.png" class="attachment-big-size wp-post-image" alt="start-with-why">
 
 For Agile the process is the ‘What’, and any Agile transformation that concentrates on adherence to the process, risks becoming a cargo cult implementation.
 
