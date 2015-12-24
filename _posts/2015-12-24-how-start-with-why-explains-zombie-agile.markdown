@@ -9,7 +9,7 @@ The follow many Agile processes but without any of the expected benefits.
 
 This ties in with what Simon Sinek describes in his famous Ted talk [Start with Why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
 
-Simon talks about the Golden Circle and the importance of explaining why, moving through how before you get to what. You need to understand 
+Simon talks about the Golden Circle and the importance of explaining why, moving through how before you get to what.
 
 <img width="1050" height="700" src="http://maccg.com/wp-content/uploads/2014/02/start-with-why.png" class="attachment-big-size wp-post-image" alt="start-with-why">
 
