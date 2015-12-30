@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'How' Agile Works
+title: How' Agile Works
 layout: post
 ---
 The biggest selling points of Agile (often touted as the **'Why'**) are
