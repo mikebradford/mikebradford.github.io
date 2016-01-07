@@ -3,7 +3,7 @@ published: true
 title: Why Agile Early Adopters probably won't like SAFe
 layout: post
 ---
-Now Agile is hitting the mainstream there is a lot of talk about Agile Transformation, and often about SAFe.
+Now Agile is hitting the mainstream there is a lot of talk about Agile Transformation, and often about **SAFe**.
 
 My current company is implementing Agile transformation, and I have recently done SAFe course.
 
@@ -15,8 +15,8 @@ I truly believe the proof of anything is in whether it works, not the sanctity o
 I also believe different models may be appropriate for different environments / cultures. 
 
 For example 
-David Anderson mapped some different Agile/Lean models against Societal values (see slide 17 http://www.slideshare.net/agilemanager/social-engineering-with-in-for-kanban-55077013)
-or look at how the Cynefin model shows that while a process heavy approach (such as SAFe) is more appropriate to Complicated environments, whilst more experimental models, such as Lean Kanban, are a better fit for Complex environments.
+- David Anderson mapped some different Agile/Lean models against Societal values (see slide 17 http://www.slideshare.net/agilemanager/social-engineering-with-in-for-kanban-55077013)
+- or look at how the Cynefin model shows that while a process heavy approach (such as SAFe) is more appropriate to Complicated environments, whilst more experimental models, such as Lean Kanban, are a better fit for Complex environments. (https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
 
 I then started thinking about SAFe in the context of adoption curve, and that it seems to me expressly designed for Enterprise Adoption. 
 
@@ -29,5 +29,3 @@ Early Agile Adoption tended to be
 - willing to work counter the established Enterprise best practice
 
 Of course there could also be an element of 'I was into Agile before it was cool'  :-)
-
-
