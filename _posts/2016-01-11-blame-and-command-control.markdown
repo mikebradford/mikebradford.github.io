@@ -1,6 +1,6 @@
 ---
 published: true
-title: Blame and Command Control
+title: Blame, Control and Accountability
 layout: post
 ---
 I have just finished reading [Beyond Blame](http://shop.oreilly.com/product/0636920033981.do), One of the things I liked about the book was that it made me think and challenged preconceptions I didn't realise I had. 
