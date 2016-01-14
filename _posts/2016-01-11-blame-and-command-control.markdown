@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Blame and Command Control
 layout: post
 ---
