@@ -15,8 +15,8 @@ I truly believe the proof of anything is in whether it works, not the sanctity o
 I also believe different models may be appropriate for different environments / cultures. 
 
 For example 
-- David Anderson mapped some different Agile/Lean models against Societal values (see slide 17 http://www.slideshare.net/agilemanager/social-engineering-with-in-for-kanban-55077013)
-- or look at how the Cynefin model shows that while a process heavy approach (such as SAFe) is more appropriate to Complicated environments, whilst more experimental models, such as Lean Kanban, are a better fit for Complex environments. (https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
+- David Anderson mapped some different Agile/Lean models against Societal values, see slide 17 of [Social Engineering with Kanban[(http://www.slideshare.net/agilemanager/social-engineering-with-in-for-kanban-55077013)
+- or look at how the Cynefin model shows that while a process heavy approach (such as SAFe) is more appropriate to Complicated environments, whilst more experimental models, such as Lean Kanban, are a better fit for Complex environments. [HBR article on Cynefin](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
 
 I then started thinking about SAFe in the context of adoption curve, and that it seems to me expressly designed for Enterprise Adoption. 
 
