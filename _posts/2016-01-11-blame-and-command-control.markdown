@@ -9,7 +9,7 @@ I already believe in a lot of what the book was saying, yet I found some ideas a
 
 Such as Accountability. This is often used instead of blame, but it is still driven by and represents as blame (the need to fall on your sword) as opposed to being honest enough to be open about what happened.
 
-It also pointed out how Blame is very seductive and misinformed in the world of complex systems. A point also raised in Matthew Syed's book, [Black Box thinking[(http://www.matthewsyed.co.uk/blackboxthinking/) which provides a great complement to _Beyond Blame_.
+It also pointed out how Blame is very seductive and misinformed in the world of complex systems. A point also raised in Matthew Syed's book, [Black Box thinking](http://www.matthewsyed.co.uk/blackboxthinking/) which provides a great complement to _Beyond Blame_.
 
 By synchronicity I also watched a [talk by Rene Brown on Blame](https://www.youtube.com/watch?v=RZWf2_2L2v8), which had an a very pertinent additional point.
 
