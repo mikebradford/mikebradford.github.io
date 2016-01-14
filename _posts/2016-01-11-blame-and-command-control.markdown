@@ -3,19 +3,20 @@ published: false
 title: Blame and Command Control
 layout: post
 ---
-Just finished reading Beyond Blame.
+I have just finished reading [Beyond Blame](http://shop.oreilly.com/product/0636920033981.do), One of the things I liked about the book was that it made me think and challenged preconceptions I didn't realise I had. 
 
-Really good read.
+I already believe in a lot of what the book was saying, yet I found some ideas and scenarios in the book which got me thinking about the language and terms which are used, even in 'non-blame' environments, and how they can be mis-used.
 
-One thing I got from it is how Blame can creep up on you.
+Such as Accountability. This is often used instead of blame, but it is still driven by and represents as blame (the need to fall on your sword) as opposed to being honest enough to be open about what happened.
 
-Such as Accountability can be micontrued as blame (need to fall on your sword) as opposed to being honest enough to be open about what happened.
+It also pointed out how Blame is very seductive and misinformed in the world of complex systems. A point also raised in Matthew Syed's book, [Black Box thinking[(http://www.matthewsyed.co.uk/blackboxthinking/) which provides a great complement to _Beyond Blame_.
 
-It also pointed out how Blame is very seductive and misinformed in the world of complex systems. A point also raised in Matthew Syed's book, Black Box thinking.  
+By synchronicity I also watched a [talk by Rene Brown on Blame](https://www.youtube.com/watch?v=RZWf2_2L2v8), which had an a very pertinent additional point.
 
-By synchronicity also also watched a talk by Rene Brown on Blame, which had an a very pertinent additional point.
+She points out how blame is often used to compensate for a lack of control. The desire to assign 'accountability' is driven in cases where you are responsible for something but are dependent on others.
 
-She points out how blame is often used to compensate for a lack of control. The desire to assign accountability is driven in cases where you are responsible for somehting but are dependent on others to make somehting happen. 
+When things go wrong, which is often because of a combination of factors due to the complex nature of both systems and organisations, this is very uncomfortable experience as a manager. 
 
-Blame makes you feel like you can fix things and create a simple anwer.
-Even when you know this isnt strictly true the desire to ensure a coulture of accountability is the siren call to still assign blame. 
+Blame makes you feel like you can fix things by creating a simple answer.
+
+Even when you know this isn't strictly true, the desire to ensure a culture of accountability is the siren call to still assign blame.
