@@ -1,12 +1,12 @@
 ---
 published: true
-title: How' Agile Works
+title: 'How' Agile Works
 layout: post
 ---
 The biggest selling points of Agile (often touted as the **'Why'**) are
-1. Increased Productivity
-2. Reduced Time To Market
-3. Increased Responsiveness
+- Increased Productivity
+- Reduced Time To Market
+- Increased Responsiveness
 
 Of course any Enterprise is going to want these :-) 
 
