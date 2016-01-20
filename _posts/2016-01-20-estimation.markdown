@@ -1,6 +1,6 @@
 ---
-published: false
-title: Estimation
+published: true
+title: __Agile__ Estimation
 layout: post
 ---
 ## Absolute Estimation Sucks.
@@ -33,29 +33,40 @@ This approach feels wrong due to another bias, [precision bias](https://en.wikip
 Story points are designed to help promote the following
 - Relative estimation, since they aren't based on how long you think it will take you to do something
 - Avoid conflating time spent with work done, another common mistake. 
-- Avoiding precision to acknowledge they are estimates.
+- Avoiding precision to acknowledge they are estimates
+
+When used to measure velocity it acknowledges that work is delivered by teams, that are not just the sum of the person days available. This includes such factors as
+-- new team members getting up to speed
+-- not every team member produces at the same rate (aka super star developer)
+-- some team members don't code but help deliver, such as QA for example
+-- some development practices, such as pairing increase productivity whilst reducing work done.
 
 The last point is also why it is often recommended to use the Fibonacci sequence.
 
-TO ADD
-
 ## The use of feedback loops to improve estimates
 
+Story points become more useful when they are used as part of feedback loops.
+
+Estimating is a complex task, and not just due cognitive biases. This is when unknown unknowns come into effect including both unknown tasks (aka undiscovered work) and unknown impediments come into effect.
+
+The recommended way to try and deal with complexity is by using feedback loops.
+
+When we use story points and velocity, the goal is to use a feedback loop to
+1. account for systemic biases impacting both work estimates and the amount of work that can be delivered by a team.
+2. adapt this to take into account environmental factors.
+
+However, in my opinion, this is often easier said than done.
 
 ## Story Point Anti-Patterns
-- resize based on time worked
-- estimate from first principles and convert between time worked and story points (can be impossible to do when man/days are used to estimate the team velocity)
--- dont track statistics 
-- dont use as feedback for velocity
-- use decimal places in estimates.
 
-## Two factor Estimating
+Like any process or method there are anti-patterns, where the process is followed without the desired results, normally to a misunderstanding of how the process delivers benefit.
 
-### Estimate Value as well as Size
-
-Value points for each story, estimated by Customer representative (i.e. Product Owner). 
-Same rules as story points. Relative, Fibonacci.
-
-### Calculate Bang for Buck for each story, use to prioritise stories to deliver most bang for buck early
-
+Ones I have seen include
+- resizing estimates for delivered work after the fact (hindsight bias ignores that the error is not systemic and will be repeated)
+- estimate from first principles and convert between time worked and story points (
+can be impossible to do when man/days are used to estimate the team velocity)
+- don't gather metrics
+- don't use metrics as feedback for velocity
+- use decimal places in estimates (too much accuracy)
+- conflation of user stories and tasks
 
