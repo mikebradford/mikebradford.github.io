@@ -22,24 +22,24 @@ This is the foundation of agile estimation using story points.
 ## This is counter to __Legacy__ Estimation best practice 
 
 Relative Estimation, particularly using macro-estimates (i.e. length of bridge instead of number of tasks, people, or time worked) is hard for business to accept since it runs counter to the __legacy way of estimating of 
-- breaking down the the project into work to be done to the smallest possible level of detail
-- estimating each task
-- adding it all back together again.
+* breaking down the the project into work to be done to the smallest possible level of detail
+* estimating each task
+* adding it all back together again.
 
 This approach feels wrong due to another bias, [precision bias](https://en.wikipedia.org/wiki/Precision_bias) , where we assume precise estimates and figures are more accurate. This is why every _experienced_ product, finance and sales manager provide forecasts to 2 decimal places. It shows you that a formula has been used, as opposed to 'Wild Ass Guesses'.
 
 ## Why Story Points?
 
 Story points are designed to help promote the following
-- Relative estimation, since they aren't based on how long you think it will take you to do something
-- Avoid conflating time spent with work done, another common mistake. 
-- Avoiding precision to acknowledge they are estimates
+* Relative estimation, since they aren't based on how long you think it will take you to do something
+* Avoid conflating time spent with work done, another common mistake. 
+* Avoiding precision to acknowledge they are estimates
 
 When used to measure velocity it acknowledges that work is delivered by teams, that are not just the sum of the person days available. This includes such factors as
--- new team members getting up to speed
--- not every team member produces at the same rate (aka super star developer)
--- some team members don't code but help deliver, such as QA for example
--- some development practices, such as pairing increase productivity whilst reducing work done.
+* new team members getting up to speed
+* not every team member produces at the same rate (aka super star developer)
+* some team members don't code but help deliver, such as QA for example
+* some development practices, such as pairing increase productivity whilst reducing work done.
 
 The last point is also why it is often recommended to use the Fibonacci sequence.
 
@@ -62,10 +62,10 @@ However, in my opinion, this is often easier said than done.
 Like any process or method there are anti-patterns, where the process is followed without the desired results, normally to a misunderstanding of how the process delivers benefit.
 
 Ones I have seen include
-- resizing estimates for delivered work after the fact (hindsight bias ignores that the error is not systemic and will be repeated)
-- estimate from first principles and convert between time worked and story points (
+* resizing estimates for delivered work after the fact (hindsight bias ignores that the error is not systemic and will be repeated)
+* estimate from first principles and convert between time worked and story points (
 can be impossible to do when man/days are used to estimate the team velocity)
-- don't gather metrics
-- don't use metrics as feedback for velocity
-- use decimal places in estimates (too much accuracy)
-- conflation of user stories and tasks
+* don't gather metrics
+* don't use metrics as feedback for velocity
+* use decimal places in estimates (too much accuracy)
+* conflation of user stories and tasks
