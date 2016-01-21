@@ -1,6 +1,6 @@
 ---
 published: true
-title: __Agile__ Estimation
+title: Agile Estimation
 layout: post
 ---
 ## Absolute Estimation Sucks.
@@ -69,4 +69,3 @@ can be impossible to do when man/days are used to estimate the team velocity)
 - don't use metrics as feedback for velocity
 - use decimal places in estimates (too much accuracy)
 - conflation of user stories and tasks
-
