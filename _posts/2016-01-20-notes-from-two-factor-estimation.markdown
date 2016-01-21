@@ -13,9 +13,9 @@ Also estimate Value points for each story representing the value of each story.
 These are estimated by Customer representative (i.e. Product Owner). 
 Use the same rules and techniques as story points. Such as Relative estimation, Fibonacci. sizing.
 
-Then calculate the _ Bang for Buck_ for each story by dividing the value point estimate by the story point estimate.
+Then calculate the _Bang for Buck_ for each story by dividing the value point estimate by the story point estimate.
 
-Use the )_Bang for Buck_ as the initial method to prioritise stories in order to help to deliver most bang for buck early.
+Use the _Bang for Buck_ as the initial method to prioritise stories in order to help to deliver most bang for buck early.
 
 ## My opinion
 1. Webcast gives great overview of Story point estimation
