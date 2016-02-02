@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Culture is not the office table tennis table
 layout: post
 ---
@@ -35,10 +35,10 @@ Core, existing business values, particularly in product management and finance, 
 
 One example is the business case, a key milestone used to review and approve projects, products and releases. 
 
-All business cases I have been involved quantify the following
-- Revenue (should be as high as possible)
-- Cost (should be as low as possible)
-- NPV (based on revenue, cost and timeline)
-- IRR
+The business case, and metrics are to plan and approve investment in ideas, projects and products typically includes the following
+* Revenue
+* Costs (CAPEX and OPEX)
+[* NPV](https://en.wikipedia.org/wiki/Net_present_value) Calculation
+* [IRR](https://en.wikipedia.org/wiki/Internal_rate_of_return) Calculation
 
-
+All of these metrics will encourage efficiency over effectiveness. Without predicting risks as a financial metric, then the business processes will not support an Agile culture 
