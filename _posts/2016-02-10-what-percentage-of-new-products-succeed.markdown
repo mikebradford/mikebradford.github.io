@@ -3,16 +3,19 @@ published: false
 title: What Percentage of New Products succeed
 layout: post
 ---
-Important because planning process in matgyure companies for mature products are that everyone that passes a business case is a success.
-Success being adding incremental revenue.
+Why this question is important to me is because of my ongoing quest to change the mindset of mature companies adopting Agile.
 
-Good approach for incremental feature for existing / mature products.
-Main threats being that costs are too high to build.
-because, 
-- Small margins
-revenue model and market werll understood
+Legacy business processes in mature companies undermine or conflict with Agile. This dichotomy is one reason why _Agile_ can fail to deliver _agile_ benefits.
 
-However not a good model for trying to find new products.
+In this case the conflict is because of the different risk profiles for mature and new products, and the different investment strategies required. 
+
+The planning process in mature companies for mature products is that passing the business case process predicts success. Additionally that success is adding incremental revenue.
+
+This is a good approach for incremental features for existing / mature products because the main risk is that high costs will eat up any incremental revenue delivered.
+
+This risk is most likely because of the small margins involved in the product, and the revenue model is pretty accurate as the market, product fit and value proposition are well understood
+
+__However__ this is not a good model for trying to find new products.
 Doesnt recognise the fundamental different nature of cost.
 Doesnt recognise the goal is not break even, but find products with big margins/revenue.
 
@@ -29,4 +32,3 @@ Fred Wilson (hypothetical) example
 30% success (Deliver 5x revenue)
 35% ok, break even
 35% loss.
-
