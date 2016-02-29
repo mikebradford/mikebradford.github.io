@@ -12,7 +12,6 @@ We have adapted Agile to help us keep our lives organised, but also to help us f
 This is how we do it now.
 
 ## Tools and Artefacts
-We use the following tools and artefacts. 
 
 We started with a lot more physical items such as a family diary and a planning wall using post-its.
 
@@ -58,7 +57,9 @@ For everything from absence letters (for when the children are off school sick) 
 ## Rituals
 
 We have two meetings a week to review.
+
 1. Face to face at the weekend 
+
 2 At lunchtime during the week over Google Hangouts.
 
 We originally had one F2F meeting but found that the meeting needed ~2 hours and became an energy suck. Splitting it down made it a lot easier to do.
@@ -73,6 +74,3 @@ Where we review the active board, including progress on existing actions, as wel
 
 3. Family Playbook review.  
 We review the defining and standard objectives, giving them a RYG score and identifying the next step on each one.
-
-
-
