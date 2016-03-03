@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Why B2B products need to be developed as B2C
 layout: post
 ---
