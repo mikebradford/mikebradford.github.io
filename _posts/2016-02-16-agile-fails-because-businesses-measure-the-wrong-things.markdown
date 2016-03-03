@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Agile Fails Because Businesses measure the wrong things
 layout: post
 ---
@@ -16,17 +16,17 @@ By default businesses track the most obvious and visible cost, which is resource
 This causes the Finance team to predominantly track resource costs, and spend against forecasts.
 These are all sensible to do when your biggest cost is the resource.
 
-However there are 2 other Costs which are significantly greater than the cost of the resource
+However there are 2 other Costs which can be significantly greater than the cost of the resource
 1) Cost of Failure
 2) Cost of Delay
 
-Cost of Failure is when a product/project/investment is completed but doesnt return the expected revenue.
+_Cost of Failure_ is when a product/project/investment is completed but doesnt return the expected revenue.
 This is a common, (i.e. more than 50%) occurence with new products. 
 This cost is reduced by identifying key assumptions, dependencies and risks and building your product in a way that addresses these risks early on.
 
 Cost of Delay is the lost revenue when it takes a long time to deliver a new feature/product/initiative. This  cost often far outweighs the cost of introducing idle time into the resource chain to deliver earlier.
 
-Now if you introduce Agile, most businesses dont change what they measure.
+When Agile is introduced, most businesses don't change what they measure.
 
 They have no measure of the Cost of Failure, or Cost of Delay in their business. 
 
